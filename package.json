@@ -1,0 +1,21 @@
+{
+  "name": "CayG-Dark",
+  "displayName": "CAYG",
+  "description": "Its about being green and dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CayG",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CayG-color-theme.json"
+      }
+    ]
+  }
+}
